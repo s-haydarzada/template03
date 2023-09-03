@@ -235,7 +235,7 @@ header {
 }
 
 .banner_bottom_items:nth-child(3)::before {
-    background-color: #E9204F;
+    background-color: #BD1A40;
     height: 30px;
     width: 100%;
     position: absolute;
@@ -246,7 +246,7 @@ header {
 
 .banner_bottom_items:nth-child(3)::after {
     content: "";
-    background-color: #E9204F;
+    background-color: #BD1A40;
     height: 100px;
     width: 30px;
     position: absolute;
